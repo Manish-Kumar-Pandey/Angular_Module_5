@@ -1,5 +1,4 @@
 # Restaurant
-
 Restaurant front-end implementation in AngularJS for David Chu's China Bistro.
 
 Enroll in the [complete free course on AngularJS][aeac87f1]
